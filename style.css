@@ -1,0 +1,50 @@
+h1{
+    font-family: 'Monoton',cursive;
+    font-size: 100px;
+    text-align: center;
+    color:rgba(97, 221, 211, 0.842)
+}
+
+body{
+    background-image: linear-gradient(rgb(212, 62, 167),rgb(11, 6, 88))
+}
+
+p{
+    font-size: 28px;
+}
+span{
+    color: red;
+}
+
+/* @media screen and (max-width: 750px) {
+    #img_title{
+    display: flex;
+    flex: wrap;
+    }
+} */
+
+img{
+    width: 16%;
+    margin: end;
+}
+
+#caption{
+    image-rendering: initial;
+
+    display: flex;
+    justify-content: center;
+}
+
+#intro{
+    font-size: 20px;
+    nav-right: auto;
+    margin:end;
+
+    display: flex;
+    justify-content: center;
+}
+
+#img_title{
+    display: flex;
+    justify-content: center;
+}
